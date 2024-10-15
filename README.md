@@ -1,21 +1,21 @@
 Логи за 14.10.2024, далее с временной меткой.
 
 
-latest.log:2940:[19:45:54] [Render thread/INFO]: [CHAT] → sestik присоединился к игре
-latest.log:3550:[20:10:41] [Render thread/INFO]: [CHAT] sestik замучен на 1 час.. Причина: 1.1
-latest.log:3554:[20:10:49] [Render thread/INFO]: [CHAT] [Рядом] sestik: ахуеть
-latest.log:3557:[20:10:57] [Render thread/INFO]: [CHAT] [Рядом] sestik: доебалась онеа
-latest.log:3558:[20:11:00] [Render thread/INFO]: [CHAT] [Рядом] sestik: а виноват
-latest.log:3559:[20:11:01] [Render thread/INFO]: [CHAT] [Рядом] sestik: я
-latest.log:3560:[20:11:06] [Render thread/INFO]: [CHAT] [Рядом] sestik: у тебя все норм?
-latest.log:3568:[20:11:32] [Render thread/INFO]: [CHAT] [Рядом] sestik: аскорбление?
-latest.log:3570:[20:11:36] [Render thread/INFO]: [CHAT] [Рядом] sestik: какое
-latest.log:3572:[20:11:41] [Render thread/INFO]: [CHAT] [Рядом] sestik: я клипанул
-latest.log:3573:[20:11:42] [Render thread/INFO]: [CHAT] [Рядом] sestik: давай
-latest.log:3574:[20:11:45] [Render thread/INFO]: [CHAT] [Рядом] sestik: слышь
-latest.log:3575:[20:11:46] [Render thread/INFO]: [CHAT] [Рядом] sestik: алде
-latest.log:3576:[20:11:49] [Render thread/INFO]: [CHAT] [Рядом] sestik: я клипанул
-latest.log:3577:[20:11:50] [Render thread/INFO]: [CHAT] [Рядом] sestik: давай
+latest.log:2940:[19:45:54] [Render thread/INFO]: [CHAT] → sestik присоединился к игре <br>
+latest.log:3550:[20:10:41] [Render thread/INFO]: [CHAT] sestik замучен на 1 час.. Причина: 1.1<br>
+latest.log:3554:[20:10:49] [Render thread/INFO]: [CHAT] [Рядом] sestik: ахуеть<br>
+latest.log:3557:[20:10:57] [Render thread/INFO]: [CHAT] [Рядом] sestik: доебалась онеа<br>
+latest.log:3558:[20:11:00] [Render thread/INFO]: [CHAT] [Рядом] sestik: а виноват<br>
+latest.log:3559:[20:11:01] [Render thread/INFO]: [CHAT] [Рядом] sestik: я<br>
+latest.log:3560:[20:11:06] [Render thread/INFO]: [CHAT] [Рядом] sestik: у тебя все норм?<br>
+latest.log:3568:[20:11:32] [Render thread/INFO]: [CHAT] [Рядом] sestik: аскорбление?<br>
+latest.log:3570:[20:11:36] [Render thread/INFO]: [CHAT] [Рядом] sestik: какое<br>
+latest.log:3572:[20:11:41] [Render thread/INFO]: [CHAT] [Рядом] sestik: я клипанул<br>
+latest.log:3573:[20:11:42] [Render thread/INFO]: [CHAT] [Рядом] sestik: давай<br>
+latest.log:3574:[20:11:45] [Render thread/INFO]: [CHAT] [Рядом] sestik: слышь<br>
+latest.log:3575:[20:11:46] [Render thread/INFO]: [CHAT] [Рядом] sestik: алде<br>
+latest.log:3576:[20:11:49] [Render thread/INFO]: [CHAT] [Рядом] sestik: я клипанул<br>
+latest.log:3577:[20:11:50] [Render thread/INFO]: [CHAT] [Рядом] sestik: давай<br>
 latest.log:3578:[20:11:52] [Render thread/INFO]: [CHAT] [Рядом] sestik: дс зайдим
 latest.log:3584:[20:12:26] [Render thread/INFO]: [CHAT] [Рядом] sestik: так я тебе
 latest.log:3585:[20:12:29] [Render thread/INFO]: [CHAT] [Рядом] sestik: не про это
